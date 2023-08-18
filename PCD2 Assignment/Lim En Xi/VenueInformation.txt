@@ -1,0 +1,10 @@
+LAB801|Laboratory|Computer Lab|30|18|14/2/2021|
+LAB802|Laboratory|Computer Lab|30|15|2/4/2021|
+LAB803|Laboratory|Computer Lab|25|13|12/4/2021|
+LAB804|Laboratory|Computer Lab|20|12|15/3/2021|
+LAB805|Laboratory|Computer Lab|25|14|3/3/2021|
+LAB806|Laboratory|Computer Lab|23|12|3/2/2021|
+LAB807|Laboratory|Computer Lab|25|16|13/2/2021|
+LAB808|Laboratory|Computer Lab|20|13|23/2/2021|
+LAB809|Laboratory|Computer Lab|23|17|25/2/2021|
+LAB810|Laboratory|Computer Lab|25|15|5/2/2021|
